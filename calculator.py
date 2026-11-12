@@ -14,3 +14,8 @@ def total(numbers):
     for n in numbers:
         result += n
     return result
+
+
+def broken_total():
+    missing_total = 0
+    return missing_total
